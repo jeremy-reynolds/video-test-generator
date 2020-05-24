@@ -29,7 +29,7 @@ display = 20
 pic_rand = 1
 
 # Directory name
-dir_name ="Pictures"
+dir_name ="/home/pi/Pictures"
 
 # Normal or Fullscreen, 0 = normal, 1 = fullscreen
 fscreen = 1
