@@ -40,7 +40,7 @@ stretch = 0
 #find .jpg files in directory
 pic_list = glob.glob(dir_name + '*.jpg') + glob.glob(dir_name + '*.JPG')
 num_pics =len(pic_list)
-
+print("num_pics:", num_pics)
 
 while True:
    for num in range (0,num_pics):
